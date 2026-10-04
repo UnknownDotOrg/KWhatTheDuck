@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+08866e91ceff78d7bfc578a9bd4838f0 CMakeFiles/fetch-translations
+8e39fdafb9d416efcd49eefb893f79cd CMakeFiles/kwhattheduck_autogen
+2d2b7d634f12d88f0ddc29791c0b69ce CMakeFiles/uninstall
+4c05e8e87eddffe4aed2584efbbbc1e4 kwhattheduck_autogen/timestamp
+12fcc331d69c744ab3840dd4a460d86e releaseme

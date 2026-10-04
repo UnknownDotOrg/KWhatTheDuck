@@ -1,0 +1,14 @@
+/home/julia/KWhatTheDuck/build/CMakeFiles/uninstall.dir
+/home/julia/KWhatTheDuck/build/CMakeFiles/fetch-translations.dir
+/home/julia/KWhatTheDuck/build/CMakeFiles/kwhattheduck.dir
+/home/julia/KWhatTheDuck/build/CMakeFiles/package.dir
+/home/julia/KWhatTheDuck/build/CMakeFiles/package_source.dir
+/home/julia/KWhatTheDuck/build/CMakeFiles/test.dir
+/home/julia/KWhatTheDuck/build/CMakeFiles/edit_cache.dir
+/home/julia/KWhatTheDuck/build/CMakeFiles/rebuild_cache.dir
+/home/julia/KWhatTheDuck/build/CMakeFiles/list_install_components.dir
+/home/julia/KWhatTheDuck/build/CMakeFiles/install.dir
+/home/julia/KWhatTheDuck/build/CMakeFiles/install/local.dir
+/home/julia/KWhatTheDuck/build/CMakeFiles/install/strip.dir
+/home/julia/KWhatTheDuck/build/CMakeFiles/kwhattheduck_autogen_timestamp_deps.dir
+/home/julia/KWhatTheDuck/build/CMakeFiles/kwhattheduck_autogen.dir

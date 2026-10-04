@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/julia/KWhatTheDuck/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
