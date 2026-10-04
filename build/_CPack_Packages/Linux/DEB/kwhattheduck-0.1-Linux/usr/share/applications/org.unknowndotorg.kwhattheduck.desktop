@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=KWhatTheDuck
+Comment=WHAT THE DUCK
+Exec=kwhattheduck
+Icon=dialog-information
+Type=Application
+Categories=Utility;
