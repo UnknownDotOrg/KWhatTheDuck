@@ -1,0 +1,2 @@
+/usr/bin/kwhattheduck
+/usr/share/applications/org.unknowndotorg.kwhattheduck.desktop
