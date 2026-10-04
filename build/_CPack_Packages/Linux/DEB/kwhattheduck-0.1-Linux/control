@@ -1,0 +1,8 @@
+Architecture: amd64
+Description: WHAT THE DUCK
+Maintainer: UnknownDotOrg
+Package: kwhattheduck
+Priority: optional
+Section: utils
+Version: 0.1
+Installed-Size: 36
